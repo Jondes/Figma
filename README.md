@@ -7,4 +7,5 @@ Medical Reports: https://www.figma.com/file/RLCioP3vTCwYbeoaloVWy2/Medical-Recor
 
 Components/Variants:  https://www.figma.com/file/JJeMmrryEd9NtvT1Ruz7K3/Components%2FVariants?node-id=0%3A1
 Loading : https://www.figma.com/file/Iqhnk3C8PcwBNL5rZd7ZZ0/Loading?node-id=0%3A1
+Phone Settings : https://www.figma.com/file/JJeMmrryEd9NtvT1Ruz7K3/Components%2FVariants?node-id=0%3A1
 
