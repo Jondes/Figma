@@ -12,4 +12,5 @@ Select Topic checkbox: https://www.figma.com/file/JJeMmrryEd9NtvT1Ruz7K3/Compone
 Things To Do : https://www.figma.com/file/JJeMmrryEd9NtvT1Ruz7K3/Components%2FVariants?node-id=0%3A1
 Final Score Drag Animation: https://www.figma.com/file/JJeMmrryEd9NtvT1Ruz7K3/Components%2FVariants
 Read More: https://www.figma.com/file/JJeMmrryEd9NtvT1Ruz7K3/Components%2FVariants
+Sliding Menu : https://www.figma.com/file/508QqDF01cYNAWKTeOg1LY/Text-Animation?node-id=0%3A1
 
