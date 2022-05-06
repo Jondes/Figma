@@ -14,4 +14,5 @@ Final Score Drag Animation: https://www.figma.com/file/JJeMmrryEd9NtvT1Ruz7K3/Co
 Read More: https://www.figma.com/file/JJeMmrryEd9NtvT1Ruz7K3/Components%2FVariants
 Sliding Menu : https://www.figma.com/file/508QqDF01cYNAWKTeOg1LY/Text-Animation?node-id=0%3A1
 Zoom Cars : https://www.figma.com/file/JJeMmrryEd9NtvT1Ruz7K3/Components%2FVariants?node-id=0%3A1
+Circulat Text: https://www.figma.com/file/508QqDF01cYNAWKTeOg1LY/Text-Animation?node-id=136%3A75
 
